@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Acer Swift 14 UltraSlim",
+      "image": "https://i.ibb.co.com/CKLzcgBZ/1d3be7c1e1ced139f15f0f372d430eac.jpg",
+      "price": 799.99,
+      "category": "Ultrabook",
+      "brand": "Acer"
+    },
+    {
+      "id": 2,
+      "product_name": "Dell G15 15.6\" Gaming",
+      "image": "https://i.ibb.co.com/CKLzcgBZ/1d3be7c1e1ced139f15f0f372d430eac.jpg",
+      "price": 1199.0,
+      "category": "Gaming Laptop",
+      "brand": "Dell"
+    },
+    {
+      "id": 3,
+      "product_name": "Apple MacBook Pro 14\" M3",
+      "image": "https://i.ibb.co.com/CKLzcgBZ/1d3be7c1e1ced139f15f0f372d430eac.jpg",
+      "price": 1999.0,
+      "category": "Professional/Workstation",
+      "brand": "Apple"
+    },
+    {
+      "id": 4,
+      "product_name": "Lenovo ThinkPad X1 Carbon Gen 11",
+      "image": "https://i.ibb.co.com/CKLzcgBZ/1d3be7c1e1ced139f15f0f372d430eac.jpg",
+      "price": 1499.5,
+      "category": "Business Laptop",
+      "brand": "Lenovo"
+    },
+    {
+      "id": 5,
+      "product_name": "ASUS ROG Zephyrus G14",
+      "image": "https://i.ibb.co.com/CKLzcgBZ/1d3be7c1e1ced139f15f0f372d430eac.jpg",
+      "price": 1399.99,
+      "category": "Gaming Laptop",
+      "brand": "ASUS"
+    },
+    {
+      "id": 6,
+      "product_name": "HP Pavilion 15 Touch",
+      "image": "https://i.ibb.co.com/CKLzcgBZ/1d3be7c1e1ced139f15f0f372d430eac.jpg",
+      "price": 649.0,
+      "category": "Budget/Everyday",
+      "brand": "HP"
+    }
+  ]
+}
